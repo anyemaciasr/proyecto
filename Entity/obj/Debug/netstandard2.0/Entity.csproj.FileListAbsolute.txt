@@ -1,0 +1,16 @@
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Universidad\Programacion web\Proyecto de aula programacion web\App web\Entity\obj\Debug\netstandard2.0\Entity.pdb
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\bin\Debug\netstandard2.0\Entity.dll
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\bin\Debug\netstandard2.0\Entity.pdb
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\obj\Debug\netstandard2.0\Entity.dll
+A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\obj\Debug\netstandard2.0\Entity.pdb
