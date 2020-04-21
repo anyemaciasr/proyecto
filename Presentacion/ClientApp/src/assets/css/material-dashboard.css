@@ -2869,8 +2869,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #ffffff;
-  background-color: #0c83e2;
-  border-color: #0c7cd5;
+  background-color: #007bff;
+  border-color: #007bff;
 }
 
 .btn-primary:focus,
@@ -9461,9 +9461,9 @@ a.text-dark:focus {
 
 .btn.btn-primary {
   color: #fff;
-  background-color: #9c27b0;
-  border-color: #9c27b0;
-  box-shadow: 0 2px 2px 0 rgba(156, 39, 176, 0.14), 0 3px 1px -2px rgba(156, 39, 176, 0.2), 0 1px 5px 0 rgba(156, 39, 176, 0.12);
+  background-color:#007bff;
+  border-color:rgb(88, 143, 224);
+  box-shadow: 0 2px 2px 0 rgb(88, 143, 224), 0 7px 10px -5px rgba(40, 22, 105, 0.4);
 }
 
 .btn.btn-primary:hover {
@@ -9476,8 +9476,8 @@ a.text-dark:focus {
 .btn.btn-primary.focus,
 .btn.btn-primary:hover {
   color: #fff;
-  background-color: #9124a3;
-  border-color: #701c7e;
+  background-color: #246fad;
+  border-color: rgb(88, 143, 224);
 }
 
 .btn.btn-primary:active,
@@ -12043,7 +12043,7 @@ fieldset[disabled] .is-focused .switch label:focus {
 
 .form-control,
 .is-focused .form-control {
-  background-image: linear-gradient(to top, #9c27b0 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px);
+  background-image: linear-gradient(to top, #007bff 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px);
 }
 
 .form-control:invalid {
@@ -17517,7 +17517,7 @@ html[dir="rtl"] .form-check .form-check-sign .check:before {
 .card.bg-primary,
 .card.card-rotate.bg-primary .front,
 .card.card-rotate.bg-primary .back {
-  background: linear-gradient(60deg, #ab47bc, #8e24aa);
+  background: linear-gradient(60deg, #007bff, #007bff);
 }
 
 .card .card-header-info .card-icon,
@@ -17568,7 +17568,7 @@ html[dir="rtl"] .form-check .form-check-sign .check:before {
 .card .card-header-primary .card-icon,
 .card .card-header-primary:not(.card-header-icon):not(.card-header-text),
 .card .card-header-primary .card-text {
-  box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 10px -5px rgba(156, 39, 176, 0.4);
+  box-shadow: 0 4px 20px 0px  rgb(88, 143, 224), 0 7px 10px -5px rgba(40, 22, 105, 0.4);
 }
 
 .card .card-header-danger .card-icon,
