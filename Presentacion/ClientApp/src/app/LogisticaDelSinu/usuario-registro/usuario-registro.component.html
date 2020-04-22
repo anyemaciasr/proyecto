@@ -1,8 +1,8 @@
-<div class="col-md-8">
+<div class="col-md-8 container">
   <div class="card">
     <div class="card-header card-header-primary">
       <h4 class="card-title">Registrar usuario</h4>
-      <p class="card-category">Ingrese su infotmacion</p>
+      <p class="card-category">Ingrese su informacion</p>
     </div>
     <div class="card-body">
       <form id="contenedor" [formGroup]="formGroup">
@@ -115,9 +115,9 @@
             </div>
           </div>
         </div>
-        <!--<button type="button" class="btn btn-primary pull-right" (click)="onSubmit()"
-        [disabled]="formGroup.invalid">Registrar</button>-->
-        <button type="reset" class="btn btn-primary pull-right">Registrar</button>
+        <button type="button" id="btn-registro" class="btn  pull-right" (click)="onSubmit()"
+        [disabled]="formGroup.invalid">Registrar</button>
+        <button type="reset"  id="btn-cancelar" class="btn  pull-right">Cancelar</button>
         <div class="clearfix"></div>
       </form>
     </div>

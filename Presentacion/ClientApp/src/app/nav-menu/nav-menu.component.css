@@ -6,11 +6,18 @@ a.navbar-brand {
 img{
   width: 40px;
 }
-.sidebar{
-
+.sidebar a{
+  color:rgb(254, 255, 255)
 }
-.sidebar-wrapper{
- 
+.sidebar .sidebar-wrapper .material-icons{
+  color:rgb(254, 255, 255);
+}
+.sidebar{
+  background-color: #006BA0;
+}
+.sidebar-wrapper p{
+  
+  color:rgb(254, 255, 255)
 }
 html {
   font-size: 14px;
