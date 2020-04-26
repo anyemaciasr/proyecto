@@ -5,4 +5,9 @@ import { Component } from '@angular/core';
   templateUrl: './home.component.html',
 })
 export class HomeComponent {
+  showSeminarios:boolean=false;
+  showTalleres:boolean=false;
+  showCongresos:boolean=false;
+  showMovilidad:boolean=false;
+
 }
