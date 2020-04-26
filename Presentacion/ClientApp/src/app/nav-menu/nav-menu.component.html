@@ -44,10 +44,11 @@
 <header>
   <div class="sidebar" data-color="purple" data-background-color="white" data-image="../assets/img/sidebar-1.jpg">
     <div class="logo"><a class="simple-text logo-normal">
-      <!--<img src="/assets/nuevoLogo.PNG">-->Logistica 
+        <!--<img src="/assets/nuevoLogo.PNG">-->Logistica
       </a>
     </div>
-   <div class="sidebar-wrapper">
+
+    <div class="sidebar-wrapper">
       <ul class="nav">
         <li class="nav-item " [routerLinkActive]="['link-active']" [routerLinkActiveOptions]="{ exact: true }">
           <a class="nav-link" [routerLink]="['/']">
@@ -55,18 +56,20 @@
             <p>Inicio</p>
           </a>
         </li>
-        <li class="nav-item " [routerLinkActive]="['link-active']">
-          <a class="nav-link" [routerLink]="['/UsuarioRegistro']">
-            <i class="material-icons">person</i>
-            <p>Registrar Usuario</p>
+
+        <li>
+          <a href="#SubUsuario" [routerLinkActive]="['link-active']" data-toggle="collapse" aria-expanded="false"
+            class="nav-link "><i class="material-icons">person</i>
+            <p class="dropdown-toggle"> Gestion Usuario     </p>
           </a>
+          <ul class="collapse list-unstyled nav " id="SubUsuario">
+            <a class="nav-link" [routerLink]="['/UsuarioRegistro']"><i class="material-icons">person</i>Registrar
+              usuario</a>
+            <a class="nav-link" [routerLink]="['/UsuarioConsulta']"><i class="material-icons">content_paste</i>Consultar
+              usuario</a>
+          </ul>
         </li>
-        <li class="nav-item " [routerLinkActive]="['link-active']">
-          <a class="nav-link"  [routerLink]="['/UsuarioConsulta']">
-            <i class="material-icons">content_paste</i>
-            <p>Consultar Usuarios</p>
-          </a>
-        </li>
+
         <li class="nav-item ">
           <a class="nav-link" href="./typography.html">
             <i class="material-icons">library_books</i>
@@ -103,7 +106,7 @@
   <div class="main-panel">
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top ">
- <div class="container-fluid">
+      <div class="container-fluid">
         <div class="navbar-wrapper">
           <a class="navbar-brand" href="javascript:;">hola</a>
         </div>
