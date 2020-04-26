@@ -887,36 +887,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ANYE\\.nuget\\packages\\": {}
+    "C:\\Users\\JUAN CARLOS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Logica\\Logica.csproj",
+      "projectUniqueName": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Logica\\Logica.csproj",
-      "packagesPath": "C:\\Users\\ANYE\\.nuget\\packages\\",
-      "outputPath": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Logica\\obj\\",
+      "projectPath": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Logica\\Logica.csproj",
+      "packagesPath": "C:\\Users\\JUAN CARLOS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ANYE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\JUAN CARLOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Datos\\Datos.csproj": {
-              "projectPath": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Datos\\Datos.csproj"
+            "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Datos\\Datos.csproj": {
+              "projectPath": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Datos\\Datos.csproj"
             },
-            "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Entity\\Entity.csproj": {
-              "projectPath": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Entity\\Entity.csproj"
+            "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Entity\\Entity.csproj"
             }
           }
         }

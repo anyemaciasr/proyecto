@@ -14,3 +14,11 @@ A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\obj\Debug\netstan
 A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
 A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\obj\Debug\netstandard2.0\Entity.dll
 A:\Escritorio\Nueva carpeta\Proyecto-de-aula-web-master\Entity\obj\Debug\netstandard2.0\Entity.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\JUAN CARLOS\Documents\GitHub\Proyecto v1\proyecto\Entity\obj\Debug\netstandard2.0\Entity.pdb

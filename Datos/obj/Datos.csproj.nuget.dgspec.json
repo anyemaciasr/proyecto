@@ -1,34 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Datos\\Datos.csproj": {}
+    "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Datos\\Datos.csproj": {}
   },
   "projects": {
-    "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Datos\\Datos.csproj": {
+    "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Datos\\Datos.csproj",
-        "packagesPath": "C:\\Users\\ANYE\\.nuget\\packages\\",
-        "outputPath": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Datos\\obj\\",
+        "projectPath": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\JUAN CARLOS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ANYE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\JUAN CARLOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Entity\\Entity.csproj": {
-                "projectPath": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Entity\\Entity.csproj"
+              "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Entity\\Entity.csproj"
               }
             }
           }
@@ -67,24 +65,22 @@
         }
       }
     },
-    "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Entity\\Entity.csproj": {
+    "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Entity\\Entity.csproj",
-        "packagesPath": "C:\\Users\\ANYE\\.nuget\\packages\\",
-        "outputPath": "A:\\Escritorio\\Nueva carpeta\\Proyecto-de-aula-web-master\\Entity\\obj\\",
+        "projectPath": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\JUAN CARLOS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JUAN CARLOS\\Documents\\GitHub\\Proyecto v1\\proyecto\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ANYE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\JUAN CARLOS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
