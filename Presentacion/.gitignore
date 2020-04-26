@@ -180,7 +180,7 @@ ClientBin/
 orleans.codegen.cs
 
 /node_modules
-appsettings.json
+appsettings
 # RIA/Silverlight projects
 Generated_Code/
 
